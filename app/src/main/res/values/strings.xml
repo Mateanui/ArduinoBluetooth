@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Airduino</string>
+
+    <!-- texts for buttons discovery -->
+
+    <string name="btn_start">START DISCOVERY</string>
+    <string name="btn_cancel">CANCEL DISCOVERY</string>
+    <string name="btn_start_action">Start scan</string>
+    <string name="btn_cancel_action">Stop scan</string>
+
+    <!-- texts for scan -->
+    <string name="scan_finished">Scan finished</string>
+
+    <!-- bluetooth warning -->
+    <string name="bt_not_supported">Bluetooth not supported on this device</string>
+
+    <!-- ble warning -->
+    <string name="ble_not_supported">No bluetooth LE capabilities</string>
+
+    <!-- texts for buttons disconnect -->
+    <string name="btn_disconnect">DISCONNECT</string>
+
+    <!-- connected -->
+    <string name="connected_device">Connected</string>
+
+    <!-- deconnected -->
+    <string name="disconnected_device">Disconnected</string>
+
+    <!-- device not found -->
+    <string name="not_found_device">Device not found.  Unable to connect.</string>
+
+    <!-- connected to GATT server -->
+    <string name="connected_gatt">Connected to GATT server</string>
+
+    <!-- disconnected from GATT server -->
+    <string name="disconnected_gatt">Disconnected from GATT server</string>
+
+    <!-- impossible to connect -->
+    <string name="connection_impossible">Impossible to connect this device</string>
+</resources>

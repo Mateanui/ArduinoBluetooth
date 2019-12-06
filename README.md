@@ -1,2 +1,2 @@
-# ArduinoBluetooth
+# ArduinoBluetooth : Dépôt GIT
 TP Arduino
